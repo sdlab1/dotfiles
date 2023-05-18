@@ -1,9 +1,7 @@
 # neovim config
--javascript
-
--lua
-
--nim
+- javascript
+- lua
+- nim
 
 my neovim configuration files.
 note: wbthomason/packer.nvim is used as plugin manager in this config.
